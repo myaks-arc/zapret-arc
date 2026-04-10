@@ -1,4 +1,4 @@
-Arc Raiders фикс голосового чата
+## Arc Raiders фикс голосового чата
 
 Как скачать:
 <img width="927" height="424" alt="image" src="https://github.com/user-attachments/assets/febeae62-ce11-482e-ac40-a2d4c9ed3ecf" />
