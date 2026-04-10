@@ -4,7 +4,7 @@ Arc Raiders фикс голосового чата
 <img width="927" height="424" alt="image" src="https://github.com/user-attachments/assets/febeae62-ce11-482e-ac40-a2d4c9ed3ecf" />
 
 Закиньте мои файлы в zapret 
-(https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b)
+Ссылка на ориг: https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b
 
 Откройте service.bat и через Install Service устанавливаете конфиг с пометкой ARC
 Конфиги сделаны на основе оригинальных с добавлением адресов под игру. Так же работает YT/DISCORD
